@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSvaSRuGnE7YyJnq/pL4gU1gC1NcRzkiaNolPmQvERBKDEkH2KkIJCM6c9Fvyf0Ihur7R+ACjf/GhZ5c81qLXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrrobot\\Desktop\\Folders\\Проект\\C#\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrrobot\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
+    "C:\\Users\\mrrobot\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512",
+    "C:\\Users\\mrrobot\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\mrrobot\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\mrrobot\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
